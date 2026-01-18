@@ -1,0 +1,122 @@
+<!DOCTYPE html 
+ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Básníci na ulici | Šrámkova (Lesná)</title>
+    <meta name="author" content="Zdeňka Kocábová" />
+    <meta name="description" content="Projekt je snahou o seznámení širší veřejnosti s nejen českými významnými básníky." />
+    <meta name="keywords" content="básníci na ulici, básníci v ulicích, básníci, ulice, brno, poezie, básně, verše, akce, umění, projekt" />
+    <link rel="stylesheet" type="text/css" href="../../basnici.css" />
+    <link rel="stylesheet" type="text/css" href="../../lightbox.css" media="screen" />
+    <script type="text/javascript" src="../../js/prototype.js"></script>
+    <script type="text/javascript" src="../../js/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="../../js/lightbox.js"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript">
+    function initialize() {
+        var latlng = new google.maps.LatLng(49.2257910, 16.6263831);
+        var myOptions = {
+        zoom: 16,
+        center: latlng,
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        mapTypeControl: false
+        };
+        var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+        var image = '/images/site/marker.png';
+        var marker = new google.maps.Marker({
+            position: latlng,
+            map: map,
+            icon: image
+        });
+    }
+    </script>
+
+</head>
+<body onload="initialize()">
+<div id="container">
+    <div id="head">
+        <div class="data">
+            <h1>
+                <a href="../../index.html" title="Básníci na ulici">
+                <img src="../../images/site/title.png" alt="Básníci na ulici" />
+                </a>
+            </h1>
+        </div>
+    </div>
+    <div id="main">
+        <div class="data">
+            <div id="content">
+                <h2>Šrámkova (Lesná)</h2>
+                <!--
+                <p>
+                    
+                </p>
+                -->
+                <p>
+                    Informace o ulici na stránkách <a href="http://www.brna.cz/home-mmb/?acc=profil_ulice&amp;load=5477"
+                    title="Přejít na stránky Encyklopedie">Encyklopedie města Brna</a>.
+                </p>
+                <ul>
+                    <li><a href="sramkova.html#verse">Verše</a></li>
+                    <li><a href="sramkova.html#mapa">Mapa</a></li>
+                    <li><a href="sramkova.html#bio">O autorovi</a></li>
+                </ul>
+                <h3><a name="verse"></a>Verše</h3>
+                <blockquote>
+Povím jim všechno. A budu číst. Pak vstanu,<br />
+zaliji květiny v oknech. Naleznu pod jejich lístky<br /> 
+zelený, blažený život. Budu jak rolník a pastýř.<br />
+Nebudu voják. To bude krásné.
+
+                </blockquote>
+                <h3><a name="mapa"></a>Mapa</h3>
+                <div id="map_canvas"></div>
+
+                <h3><a name="bio"></a>Fráňa Šrámek (1877&ndash;1952)</h3>
+                <p>
+                    Narodil se v Sobotce roku 1877 a zemřel v Praze roku 1952. Tento významný český spisovatel a dramatik byl pověstný svým antimilitaristickým postojem. V mládí se účastnil několika demonstrací. V první světové válce narukoval na frontu, ale musel být hospitalizován kvůli revmatismu. Šrámkovy antimilitaristické až anarchistické tendence se odráží i v jeho poezii částečně ovlivněné impresionismem. Mezi nejznámější básnické sbírky patří <em>Života bído, přec mám tě rád</em>, <em>Modrý a rudý</em> nebo <em>Splav</em>.
+                </p>
+                <p>
+                    Více o autorovi či autorce na stránkách <a href="http://www.spisovatele.cz/frana-sramek"
+                    title="Přejít na stránky www.spisovatele.cz">www.spisovatele.cz</a>.
+                </p>
+
+
+            </div>
+            <div id="column">
+                <h2>Nabídka</h2>
+                <ul>
+                    <li><a href="../o-projektu.html">O projektu</a></li>
+                    <li><a href="../novinky.html">Novinky</a></li>
+                    <li><a href="../prehled-ulic.html">Přehled ulic</a></li>
+                    <li><a href="../podekovani.html">Poděkování</a></li>
+                </ul>
+                <h2>Novinky</h2>
+                <h3>Repotáž České televize</h3>
+                <div class="news_date">21. 8. 2010, 16:13</div>
+                <p>Česká televize informuje o Básnících na ulici ve své reporáži <a href="http://www.ct24.cz/regionalni/99117-z-brnenskych-chodniku-promlouvaji-verse/">Z brněnských chodníků promlouvají verše</a>.
+                </p>
+
+                <h3>Akce</h3>
+                <div class="news_date">21. 8. 2010, 14:53</div>
+                <p>V noci na dnešek byla akce realizována. Ulice by nyní měly zdobit úryvky z básní autorů, po nichž jsou pojmenovány.
+                </p>
+
+            </div>
+        </div>
+    </div>
+    <div id="foot">
+        <div class="data">
+            <p>
+                <strong>Básníci na ulici.</strong>
+                <a href="mailto:kocabova.zdenka@gmail.com">Zdeňka Kocábová</a>,
+                Code &amp; design,
+                <a href="https://contyk.dev">Petr Šabata</a>.
+            </p>
+        </div>
+    </div>
+</div>
+</body>
+</html>
