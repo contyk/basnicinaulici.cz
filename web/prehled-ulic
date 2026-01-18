@@ -1,0 +1,242 @@
+<!DOCTYPE html 
+ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Básníci na ulici | Přehled ulic</title>
+    <meta name="author" content="Zdeňka Kocábová" />
+    <meta name="description" content="Projekt je snahou o seznámení širší veřejnosti s nejen českými významnými básníky." />
+    <meta name="keywords" content="básníci na ulici, básníci v ulicích, básníci, ulice, brno, poezie, básně, verše, akce, umění, projekt" />
+    <link rel="stylesheet" type="text/css" href="../basnici.css" />
+    <link rel="stylesheet" type="text/css" href="../lightbox.css" media="screen" />
+    <script type="text/javascript" src="../js/prototype.js"></script>
+    <script type="text/javascript" src="../js/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="../js/lightbox.js"></script>
+</head>
+<body>
+<div id="container">
+    <div id="head">
+        <div class="data">
+            <h1>
+                <a href="../index.html" title="Básníci na ulici">
+                <img src="../images/site/title.png" alt="Básníci na ulici" />
+                </a>
+            </h1>
+        </div>
+    </div>
+    <div id="main">
+        <div class="data">
+            <div id="content">
+                <h2>Přehled ulic</h2>
+                <p>
+                        Město Brno má v současné době 1816 ulic. Jejich jména vznikají už
+                        od druhé poloviny 13.&nbsp;století různými způsoby, prvotně mají
+                        sloužit ke snazší orientaci ve městě, odtud tedy názvy místní a
+                        polohové, jakými jsou například ulice <em>Měnínská</em> nebo <em>Na
+                        pískové cestě</em>. V současnosti se inklinuje k pojmenovávání po
+                        významných osobnostech. První takovou ulicí v Brně byla roku 1836
+                        <em>Ferdinandsgasse</em> (<em>Ferdinandova</em>, dnes <em>Masarykova</em>)
+                        nesoucí jméno po Ferdinandovi&nbsp;V., rakouském císaři a posledním
+                        korunovaném českém králi. Po osobnostech věnujících se psaní poezie
+                        se v Brně jmenuje 80 ulic.
+                </p>
+                <ul>
+                        <li><a href="ulice/antala-staska">Antala Staška</a> (Černá Pole)</li>
+
+                        <li><a href="ulice/antonina-macka">Antonína Macka</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/baarovo-nabrezi">Baarovo nábřeží</a> (Maloměřice)</li>
+
+                        <li><a href="ulice/balbinova">Balbínova</a> (Židenice)</li>
+
+                        <li><a href="ulice/bezrucova">Bezručova</a> (Staré Brno)</li>
+
+                        <li><a href="ulice/bieblova">Bieblova</a> (Černá Pole)</li>
+
+                        <li><a href="ulice/blatneho">Blatného</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/bochorakova">Bochořákova</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/bozeny-nemcove">Boženy Němcové</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/bratri-capku">Bratří Čapků</a> (Veveří)</li>
+
+                        <li><a href="ulice/bratri-kricku">Bratří Křičků</a> (Řečkovice)</li>
+
+                        <li><a href="ulice/brechtova">Brechtova</a> (Lesná)</li>
+
+                        <li><a href="ulice/brezinova">Březinova</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/cornovova">Cornovova</a> (Černovice)</li>
+
+                        <li><a href="ulice/celakovskeho">Čelakovského</a> (Židenice)</li>
+
+                        <li><a href="ulice/dacickeho">Dačického</a> (Husovice)</li>
+
+                        <li><a href="ulice/dalimilova">Dalimilova</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/dykova">Dykova</a> (Židenice)</li>
+
+                        <li><a href="ulice/elisky-krasnohorske">Elišky Krásnohorské</a> (Černovice)</li>
+
+                        <li><a href="ulice/erbenova">Erbenova</a> (Černá Pole)</li>
+
+                        <li><a href="ulice/fricova">Fričova</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/gellnerova">Gellnerova</a> (Jundrov)</li>
+
+                        <li><a href="ulice/gogolova">Gogolova</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/habrinova">Habřinova</a> (Komín)</li>
+
+                        <li><a href="ulice/halasovo-namesti">Halasovo náměstí</a> (Lesná)</li>
+
+                        <li><a href="ulice/halkova">Hálkova</a> (Husovice)</li>
+
+                        <li><a href="ulice/haskova">Haškova</a> (Lesná)</li>
+
+                        <li><a href="ulice/havlickova">Havlíčkova</a> (Stránice)</li>
+
+                        <li><a href="ulice/heydukova">Heydukova</a> (Líšeň)</li>
+
+                        <li><a href="ulice/hnevkovskeho">Hněvkovského</a> (Komárov)</li>
+
+                        <li><a href="ulice/horova">Horova</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/hrabalova">Hrabalova</a> (Židenice)</li>
+
+                        <li><a href="ulice/hviezdoslavova">Hviezdoslavova</a> (Slatina)</li>
+
+                        <li><a href="ulice/chaloupkova">Chaloupkova</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/jablonskeho">Jablonského</a> (Líšeň)</li>
+
+                        <li><a href="ulice/jana-necase">Jana Nečase</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/kainarova">Kainarova</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/karnikova">Kárníkova</a> (Řečkovice)</li>
+
+                        <li><a href="ulice/klacelova">Klácelova</a> (Stránice)</li>
+
+                        <li><a href="ulice/klasterskeho">Klášterského</a> (Komárov)</li>
+
+                        <li><a href="ulice/klicperova">Klicperova</a> (Líšeň)</li>
+
+                        <li><a href="ulice/kollarova">Kollárova</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/krameriova">Krameriova</a> (Líšeň)</li>
+
+                        <li><a href="ulice/ladova">Ladova</a> (Řečkovice)</li>
+
+                        <li><a href="ulice/mahenova">Mahenova</a> (Stránice)</li>
+
+                        <li><a href="ulice/machova">Máchova</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/marie-pujmanove">Marie Pujmanové</a> (Pisárky)</li>
+
+                        <li><a href="ulice/merhautova">Merhautova</a> (Černá Pole)</li>
+
+                        <li><a href="ulice/mikulaskovo-namesti">Mikuláškovo náměstí</a> (Starý Lískovec)</li>
+
+                        <li><a href="ulice/nerudova">Nerudova</a> (Veveří)</li>
+
+                        <li><a href="ulice/nezvalova">Nezvalova</a> (Lesná)</li>
+
+                        <li><a href="ulice/pellicova">Pellicova</a> (Brno-město)</li>
+
+                        <li><a href="ulice/pflegrova">Pflegrova</a> (Černá Pole)</li>
+
+                        <li><a href="ulice/puskinova">Puškinova</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/raisova">Raisova</a> (Nový Lískovec)</li>
+
+                        <li><a href="ulice/razusova">Rázusova</a> (Maloměřice)</li>
+
+                        <li><a href="ulice/rencova">Renčova</a> (Řečkovice)</li>
+
+                        <li><a href="ulice/rokytova">Rokytova</a> (Židenice)</li>
+
+                        <li><a href="ulice/sabinova">Sabinova</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/seifertova">Seifertova</a> (Lesná)</li>
+
+                        <li><a href="ulice/skacelova">Skácelova</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/sladkova">Sládkova</a> (Černá Pole)</li>
+
+                        <li><a href="ulice/soukopova">Soukopova</a> (Stránice)</li>
+
+                        <li><a href="ulice/sovova">Sovova</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/spacilova">Spáčilova</a> (Černovice)</li>
+
+                        <li><a href="ulice/svatopluka-cecha">Svatopluka Čecha</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/safarikova">Šafaříkova</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/saldova">Šaldova</a> (Židenice)</li>
+
+                        <li><a href="ulice/simackova">Šimáčkova</a> (Líšeň)</li>
+
+                        <li><a href="ulice/smilovskeho">Šmilovského</a> (Slatina)</li>
+
+                        <li><a href="ulice/sramkova">Šrámkova</a> (Lesná)</li>
+
+                        <li><a href="ulice/tesnohlidkova">Těsnohlídkova</a> (Černá Pole)</li>
+
+                        <li><a href="ulice/ticheho">Tichého</a> (Žabovřesky)</li>
+
+                        <li><a href="ulice/tomanova">Tomanova</a> (Černá Pole)</li>
+
+                        <li><a href="ulice/turgenevova">Turgeněvova</a> (Černovice, Židenice)</li>
+
+                        <li><a href="ulice/tylova">Tylova</a> (Královo Pole)</li>
+
+                        <li><a href="ulice/vinarickeho">Vinařického</a> (Židenice)</li>
+
+                        <li><a href="ulice/vrchlickeho-sad">Vrchlického sad</a> (Černá Pole)</li>
+
+                        <li><a href="ulice/wolkrova">Wolkrova</a> (Stránice)</li>
+
+                        <li><a href="ulice/zeyerova">Zeyerova</a> (Žabovřesky)</li>
+
+                </ul>
+
+            </div>
+            <div id="column">
+                <h2>Nabídka</h2>
+                <ul>
+                    <li><a href="o-projektu">O projektu</a></li>
+                    <li><a href="novinky">Novinky</a></li>
+                    <li><a href="prehled-ulic">Přehled ulic</a></li>
+                    <li><a href="podekovani">Poděkování</a></li>
+                </ul>
+                <h2>Novinky</h2>
+                <h3>Repotáž České televize</h3>
+                <div class="news_date">21. 8. 2010, 16:13</div>
+                <p>Česká televize informuje o Básnících na ulici ve své reporáži <a href="http://www.ct24.cz/regionalni/99117-z-brnenskych-chodniku-promlouvaji-verse/">Z brněnských chodníků promlouvají verše</a>.
+                </p>
+
+                <h3>Akce</h3>
+                <div class="news_date">21. 8. 2010, 14:53</div>
+                <p>V noci na dnešek byla akce realizována. Ulice by nyní měly zdobit úryvky z básní autorů, po nichž jsou pojmenovány.
+                </p>
+
+            </div>
+        </div>
+    </div>
+    <div id="foot">
+        <div class="data">
+            <p>
+                <strong>Básníci na ulici.</strong>
+                <a href="mailto:kocabova.zdenka@gmail.com">Zdeňka Kocábová</a>,
+                Code &amp; design,
+                <a href="https://contyk.dev">Petr Šabata</a>.
+            </p>
+        </div>
+    </div>
+</div>
+</body>
+</html>
